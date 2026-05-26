@@ -134,7 +134,7 @@ Designed for:
 ## 👩‍🎨 Designer
 
 Designed and developed as a UI/UX case study focusing on luxury e-commerce experiences and modern design principles.
-
+https://admirable-caramel-f09733.netlify.app/
 ---
 
 ## 📄 License
