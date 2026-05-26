@@ -134,9 +134,9 @@ Designed for:
 ## 👩‍🎨 Designer
 
 Designed and developed as a UI/UX case study focusing on luxury e-commerce experiences and modern design principles.
-https://admirable-caramel-f09733.netlify.app/
----
 
+---
+https://lucent-cascaron-2fa923.netlify.app/
 ## 📄 License
 
 This project is created for educational, portfolio, and showcase purposes.
